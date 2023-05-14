@@ -1,0 +1,7 @@
+--> Create a Twilio Account 
+@. Create a Twilio phone number
+
+
+-->Openweathermap.com  
+@. http://api.openweathermap.org/data/2.5/weather?q={}&appid=YOUR_API_IDS'
+ 
